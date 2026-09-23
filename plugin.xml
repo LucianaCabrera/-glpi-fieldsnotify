@@ -31,7 +31,7 @@ already-loaded custom_fields JSON column via the GLPI framework.
 <versions>
 <version>
 <num>0.1.0</num>
-<compatibility>11.0</compatibility>
+<compatibility>~11.0.0</compatibility>
 <download_url><![CDATA[https://github.com/LucianaCabrera/-glpi-fieldsnotify/releases/download/v0.1.0/fieldsnotify-0.1.0.tar.gz]]></download_url>
 </version>
 </versions>
