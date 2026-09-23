@@ -24,7 +24,7 @@ already-loaded custom_fields JSON column via the GLPI framework.
 </description>
 <homepage><![CDATA[https://github.com/LucianaCabrera/-glpi-fieldsnotify]]></homepage>
 <logo><![CDATA[https://raw.githubusercontent.com/LucianaCabrera/-glpi-fieldsnotify/main/logo.png]]></logo>
-<download><![CDATA[https://github.com/LucianaCabrera/-glpi-fieldsnotify/releases/download/v0.1.0/fieldsnotify-0.1.0.tar.gz]]></download>
+<download><![CDATA[https://github.com/LucianaCabrera/-glpi-fieldsnotify/releases]]></download>
 <authors>
 <author>Omint</author>
 </authors>
@@ -32,6 +32,7 @@ already-loaded custom_fields JSON column via the GLPI framework.
 <version>
 <num>0.1.0</num>
 <compatibility>11.0</compatibility>
+<download_url><![CDATA[https://github.com/LucianaCabrera/-glpi-fieldsnotify/releases/download/v0.1.0/fieldsnotify-0.1.0.tar.gz]]></download_url>
 </version>
 </versions>
 <langs>
